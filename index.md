@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PROformance-Solutions-International/PROSOLINT.GITHUB.IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Proformance Solutions International
+
+You can use the [editor on GitHub](https://github.com/PROformance-Solutions-International/PROSOLINT.GITHUB.IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files
+
+<Strong>Bring your business process, schedule a meeting with us, disclosed yur business vision, and let us take over. Basically, if you can think it, we can build it.</Strong>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
